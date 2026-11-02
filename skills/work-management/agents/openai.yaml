@@ -1,0 +1,4 @@
+interface:
+  display_name: "工作管理助理"
+  short_description: "根据项目资料整理今日安排、工作日志、周期总结、管理层审视和对外台账"
+  default_prompt: "使用 $work-management，根据我提供的资料整理当前工作重点，保留来源和待核实事项。"
